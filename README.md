@@ -14,11 +14,12 @@ Icones de desenvolvedores: https://devicon.dev/
 
 <h3 align="center">Simple description of you.</h3>
 
-- 📚 I’m currently a student at the Federal University of Ceará campus Quixadá
-- 📝 I’m currently learning Artificial Intelligence and Web Development
-- 😍 I want to get into companies and get to know the software development flow as well as learn about Project Management
-- 👩‍💻 My academic curriculum: 
-- ✉️ How to reach me: 
+- 📚 I'am currently a student at the Federal Institute of Education, Science and Technology of Ceará campus Canindé
+- 📝 I'am currently work in cross-platform development research, artificial intelligence to motor behavior and project management
+- 😍 I'm passionate about research, development and innovation.
+- ❤️ I am body and soul of the Innovative Programming and Projects Student Group - GDPPI.
+- 👩‍💻 My academic curriculum: http://lattes.cnpq.br/9224139296840890
+- ✉️ How to reach me: 085 987598176 and rubens.gdppi@gmail.com
 
 #
 
