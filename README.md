@@ -60,7 +60,8 @@ Icones de desenvolvedores: https://devicon.dev/
   <img align="center" alt="Rubens-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="Rubens-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rubens-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    ![Snake animation](https://github.com/silvarubens/silvarubens)
+ 
+  ![Snake animation](https://github.com/silvarubens/silvarubens)
 </div>
     
   
