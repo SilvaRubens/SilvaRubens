@@ -8,6 +8,8 @@ Repositório do Github Stats - https://github.com/anuraghazra/github-readme-stat
 Site de Badges 1 - https://dev.to/envoy_/150-badges-for-github-pnk
 Fazedor de gifs - https://picrew.me/image_maker/338224
 Icones de desenvolvedores: https://devicon.dev/
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvarubens&layout=compact&langs_count=7&theme=dracula"/>
+
 -->
 
 <h2 align="center">Hi, i'm Rubens Silva. Welcome! 👋</h2>
@@ -19,7 +21,7 @@ Icones de desenvolvedores: https://devicon.dev/
 - 😍 I'm passionate about research, development and innovation.
 - ❤️ I am body and soul of the Innovative Programming and Projects Student Group - GDPPI.
 - 👩‍💻 My academic curriculum: http://lattes.cnpq.br/9224139296840890
-- ✉️ How to reach me: 085 987598176 and rubens.gdppi@gmail.com
+- ✉️ How to reach me: 085 987598176 WhatsApp
 
 #
 
@@ -31,6 +33,8 @@ Icones de desenvolvedores: https://devicon.dev/
   <a href="https://discord.gg/Dяєїлд#9013" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/andreina-mendes-7855941a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <a href="https://twitter.com/RubensAbraao" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+    <a href = "mailto:rubens.gdppi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
 </div>
 
 #
